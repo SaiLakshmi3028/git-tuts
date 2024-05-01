@@ -1,0 +1,1 @@
+print('learn what ever possible')
